@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "The Struggle of Web Development!",
+      "body": "CSS is my nightmare , but React is not that bad its like building a App \n, well maybe because it is literally a Web App ! My brain is overloaded right now but",
+      "author": "Bekir",
+      "id": 2
+    },
+    {
+      "title": "Bekirs Monkey",
+      "body": "Monkey See Monkey Do Donkey Dance wuhuuuuuuu ",
+      "author": "Heisenberg",
+      "id": 6
+    }
+  ]
+}
